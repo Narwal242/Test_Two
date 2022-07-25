@@ -11,6 +11,8 @@ public class Part_3_1 : MonoBehaviour
         //Area();            //Result should be 1
         //Area(2.5f, 3.7f);  //Result should be 9.25f
     }
+    void Area()
+        datatype functionName(datatype var1, dataTypeVar2) { return variable; }
 
     //Create a function called Area where you pass in two integer values and
     //return the Area value (1pt)
